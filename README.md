@@ -31,7 +31,8 @@ SELECT * FROM table_master ORDER BY 1 ASC;
 ```
 📈 Dashboard Visualization
 The clean dataset was then connected to Looker Studio to build an interactive end-to-end performance dashboard.
-([dashboard.png])
+![dashboard](https://github.com/user-attachments/assets/5d612212-2c1f-4bce-adcb-84ad37533ec6)
+
 
 🔗 [Click here to view the interactive Looker Studio Dashboard](https://lookerstudio.google.com/reporting/57cd44b6-bba2-4a3e-8891-7a5243e8a6f8)
 
